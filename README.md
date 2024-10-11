@@ -33,6 +33,10 @@ Testing an 8-pin cable:  <br/>
 <img src="https://i.imgur.com/v227GEQ.jpeg" height="50%" width="50%" alt="Cable Test"/>
 <br />
 <br />
+ Tested the 8-pin cable and it passed!: <br/>
+<img src="https://i.imgur.com/TPoVI4C.jpeg" height="60%" width="60%" alt="Cable Test"/>
+<br />
+<br />
 A cable with only 2 pins being tested <br/>
 <img src="https://i.imgur.com/FBk1Kcu.jpeg" height="50%" width="50%" alt="Cable Test"/>
 <br />
