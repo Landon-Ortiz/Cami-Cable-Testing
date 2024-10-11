@@ -1,4 +1,4 @@
-<h1> Cami Cable Testing</h1>
+<h1> Cable Testing</h1>
 
 
 <h2>Description</h2>
@@ -11,16 +11,16 @@ I developed a comprehensive testing suite for cables used in aerospace, military
 - **Amps Measurement**: Assesses the cables' current-carrying capacity to handle required electrical loads without overheating.
 - **Voltage Testing**: Verifies that cables can safely carry designated voltage levels without degradation.
 
-By automating these critical electrical tests, the suite enhances testing efficiency, minimizes human error, and ensures all cable assemblies comply with NASA, military, and customer-specific electrical standards essential for successful missions and operations.
+By automating and manually testing these critical electrical tests, the suite enhances testing efficiency, minimizes human error, and ensures all cable assemblies comply with NASA, military, and customer-specific electrical standards essential for successful missions and operations.
 <br />
 
 
-<h2>Machines Used</h2>
+<h2>Machines/Equipment Used</h2>
 
-- <b> Cami/Cableye: HVX High Voltage Tester, Cirris: CH2 High Voltage Harness Tester</b> 
+- <b> Cami/Cableye: HVX High Voltage Tester, Cirris: CH2 High Voltage Harness Tester, Multimeter, Milli-Ohm Meter  </b> 
 
 <h2>Types of Cables Used</h2>
-- <b> 4-50 pin D-Subs Female/Males, 2-128 pin U.S. Military Standard circular connectors</b> 
+- <b> 4-50 pin D-Subs Female/Males, 2-128 pin U.S. Military Standard circular connectors, Etc</b> 
 
 <h2> Pictures of Cables Used</h2>
 
@@ -30,18 +30,21 @@ Testing a 50-Dsub and 75-pin cable with a fixture: <br/>
 <br />
 <br />
 Testing an 8-pin cable:  <br/>
-<img src="https://i.imgur.com/v227GEQ.jpeg" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/v227GEQ.jpeg" height="50%" width="50%" alt="Cable Test"/>
 <br />
 <br />
 A cable with only 2 pins being tested <br/>
-<img src="https://i.imgur.com/FBk1Kcu.jpeg" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FBk1Kcu.jpeg" height="50%" width="50%" alt="Cable Test"/>
 <br />
 <br />
-Me having to test a whole bucked of cables😃 (This one took a long time Haha):  <br/>
-<img src="https://i.imgur.com/uocQN87.jpeg" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+Me having to test a whole bucket of cables 😃 (This one took a long time Haha):  <br/>
+<img src="https://i.imgur.com/uocQN87.jpeg" height="45%" width="45%" alt="Cable Test"/>
 <br />
 <br />
-
+Testing Continuity for the whole bucket of cables: <br/>
+<img src="https://i.imgur.com/jq0hdGa.jpeg" height="60%" width="60%" alt="Cable Test"/>
+<br />
+<br />
 
 <!--
  ```diff
